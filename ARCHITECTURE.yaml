@@ -1,0 +1,4 @@
+system_logic:
+  conflict_resolution: "TASK_OVER_STYLE"
+  memory_mode: "EPHEMERAL_CONTEXT"
+  security_model: "LEAST_PRIVILEGE_SANDBOX"
